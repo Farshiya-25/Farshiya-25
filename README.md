@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kathija Farshiya</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **AI & Machine Learning projects, focusing on RAG pipelines, conversational AI, and voice-based AI systems**
+- 🔭 I’m currently working on **AI & Machine Learning projects, focusing on RAG pipelines, conversational AI, OCR based and  voice-based AI systems**
 
 - 🌱 I’m currently learning **LangChain, FastAPI, Pinecone, and advanced RAG Systems**
 
